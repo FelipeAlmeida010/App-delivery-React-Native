@@ -113,4 +113,3 @@ function handleOrder(){
     </View>
 }
 
-//minuto 44:49 do video
